@@ -1,0 +1,5 @@
+{
+  "installCommand": "npm install --prefix my-react-app",
+  "buildCommand": "npm run build --prefix my-react-app",
+  "outputDirectory": "my-react-app/dist"
+}
